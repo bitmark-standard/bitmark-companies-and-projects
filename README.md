@@ -1,6 +1,6 @@
 # Companies and projects using bitmark 
 
-Please reach out to `timothy.lim[at]bitmark-association.org` if you would like your company or project featured!
+This is a living document. Please reach out to `timothy.lim[at]bitmark-association.org` if you would like your company or project featured!
 
 - [Get More Brain](https://about.getmorebrain.com)
   - The Get More Brain platform is the first full-scale digital learning ecosystem to enable employees' professional and career development.
